@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thomas</h1>
-<h3 align="center">An ongoing game developer from germany!</h3>
+<h3 align="center">A game developer from germany!</h3>
 
 - 🔭 I’m currently working on **my github page**
 
