@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thomas</h1>
 <h3 align="center">A game developer from germany!</h3>
 
-- 🔭 I’m currently working on **my github page & restoring older projects**
+- 🔭 I’m currently working on **a 2D top down rogue like shooter**
 
 - 🌱 I’m currently learning **Authorization via MS Azure**
 
