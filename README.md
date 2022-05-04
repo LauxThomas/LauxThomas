@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Business Central**
 
-- ⚡ Fun fact **I have 9 pets and currently i'm building a kind of animal sanctuary**
+- ⚡ Fun fact **I have 9 pets and currently I'm building a kind of animal sanctuary**
 
 - 🎮 My current favorite game is **Vampire Survivors**
 
