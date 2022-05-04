@@ -11,6 +11,8 @@
 
 - ⚡ Fun fact **I have 9 pets and currently i'm building a kind of animal sanctuary**
 
+- 🎮 my current favorite game is **Vampire Survivors**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/thomas-laux-99a162165" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thomas-laux-99a162165" height="30" width="40" /></a>
