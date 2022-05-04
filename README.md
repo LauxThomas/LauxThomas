@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I have 9 pets and currently i'm building a kind of animal sanctuary**
 
-- 🎮 my current favorite game is **Vampire Survivors**
+- 🎮 My current favorite game is **Vampire Survivors**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
