@@ -3,15 +3,15 @@
 
 - 🔭 I’m currently working on **a 2D top down rogue lite shooter**
 
-- 🌱 I’m currently learning **Authorization via MS Azure**
+- 🌱 I’m currently learning **UE5 Development with C++**
 
-- 👯 I’m looking to collaborate on **Unity Games**
+- 👯 I’m looking to collaborate on **Unity and Unreal Games**
 
 - 💬 Ask me about **Business Central**
 
-- ⚡ Fun fact **I have 9 pets and currently I'm building a kind of animal sanctuary**
+- ⚡ Fun fact **I have 9 pets and currently I'm building a kind of animal sanctuary.**
 
-- 🎮 My current favorite game is **Vampire Survivors**
+- 🎮 My current favorite game is **Path of Exile**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
