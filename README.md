@@ -41,6 +41,16 @@ During my studies, I participated in and led various software projects. Roles va
 - Unity (C#)
 - Git, Docker, Azure DevOps
 - Business Central / AL
+- JetBrains Rider
+- Obsidian.md
+- LaTeX
+- Educational Game Design
+- Visual Studio Code
+- Cross-functional Team Collaboration
+
+- Unity (C#)
+- Git, Docker, Azure DevOps
+- Business Central / AL
 - Educational Game Design
 - Visual Studio Code
 - Cross-functional Team Collaboration
