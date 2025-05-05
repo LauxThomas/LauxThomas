@@ -48,13 +48,6 @@ During my studies, I participated in and led various software projects. Roles va
 - Visual Studio Code
 - Cross-functional Team Collaboration
 
-- Unity (C#)
-- Git, Docker, Azure DevOps
-- Business Central / AL
-- Educational Game Design
-- Visual Studio Code
-- Cross-functional Team Collaboration
-
 ---
 
 ## 🧪 Projects
@@ -69,7 +62,7 @@ I developed the complete game loop and implemented a customizable car system wit
 ### [Bibitsimulator (2019)](https://github.com/LauxThomas/Bachelor_AI_ecosystem)
 Bachelor thesis project: A 2D autonomous ecosystem with NEAT-based self-learning AI. Includes procedural generation and early Unity DOTS use.
 
-### Edurino Minigames (2023–2025)
+### [Edurino Minigames (2023–2025)](https://apps.apple.com/de/app/edurino/id1576678420)
 A collection of educational minigames designed for children. I contributed as the main Unity developer on multiple titles, covering approx. 30 minutes of interactive gameplay. These projects involved close collaboration with designers and artists, system integration, and workflow automation.
 
 🎥 *Videos and screenshots coming soon...*
