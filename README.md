@@ -62,7 +62,7 @@ During my studies, I participated in and led various software projects. Roles va
 ### [Stubbi-Car (2020)](https://apps.apple.com/us/app/stubbi-car-das-game/id1508323525)
 A side-scrolling one-tap game. Completely redesigned and redeveloped in Unity. Assets were provided by an external art studio.
 
-![Stubbi-Car Screenshot](./stubbiCar.png)
+![Stubbi-Car Screenshot](./StubbiCar.png)
 
 ### [Bibitsimulator (2019)](https://github.com/LauxThomas/Bachelor_AI_ecosystem)
 Bachelor thesis project: A 2D autonomous ecosystem with NEAT-based self-learning AI. Includes procedural generation and early Unity DOTS use.
