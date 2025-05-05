@@ -60,7 +60,17 @@ During my studies, I participated in and led various software projects. Roles va
 ## 🧪 Projects
 
 ### [Stubbi-Car (2020)](https://apps.apple.com/us/app/stubbi-car-das-game/id1508323525)
-A side-scrolling one-tap game. Completely redesigned and redeveloped in Unity. Assets were provided by an external art studio.
+A side-scrolling one-tap game developed for Bitburger. I was the sole developer responsible for the full technical implementation.
+
+Key features I developed:
+- Main game loop
+- Car customization system
+- Different physics for various vehicle states
+- Multiple interactive item types
+- Quick time event mechanics
+- Online high score system
+- Ghost driving feature
+- Account handling and data persistence
 
 ![Stubbi-Car Screenshot](./StubbiCar.png)
 
