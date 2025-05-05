@@ -1,39 +1,70 @@
+
 <h1 align="center">Hi 👋, I'm Thomas</h1>
-<h3 align="center">A software developer from germany!</h3>
+<h3 align="center">A software developer and Unity enthusiast from Germany!</h3>
 
-- 🔭 I’m currently working on **a 2D top down rogue lite shooter**
+- 👯 I’m looking to collaborate on **Unity projects**
 
-- 🌱 I’m currently learning **UE5 Development with C++**
+- 💬 Ask me about **Business Central, Unity, and Educational Game Development**
 
-- 👯 I’m looking to collaborate on **Unity and Unreal Games**
+- 🎓 Currently studying **Educational Technology (M.Sc.)**, combining computer science, pedagogy, and psychology
 
-- 💬 Ask me about **Business Central**
+- ⚡ Fun fact: **I have 10 pets — 2 cats, 2 dogs, 4 rabbits, and 2 pigs — and I’m building a small animal sanctuary**
 
-- ⚡ Fun fact **I have 9 pets and currently I'm building a kind of animal sanctuary.**
+- 🎮 My current favorite games are **Path of Exile** and **Satisfactory**
 
-- 🎮 My current favorite game is **Path of Exile**
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/thomas-laux-99a162165" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thomas-laux-99a162165" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/thomas-laux-99a162165" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thomas-laux-99a162165" height="30" width="40" />
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
-<a href="https://dynamics.microsoft.com/de-de/business-central/overview/" target="_blank" rel="noreferrer"> <img src="https://docs.microsoft.com/en-us/learn/achievements/intro-dynamics-365-business-central.svg" alt="Business Central" width="40" height="40"/> </a> 
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" alt="Visual Studio Code" width="40" height="40"/> </a> 
-<a href="https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/devenv-programming-in-al" target="_blank" rel="noreferrer"> <img src="https://www.kauffmann.nl/wp-content/uploads/2019/10/AL_ext_logo.png" alt="AL Code" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
-<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
+
+## 🧑‍💻 Professional Experience
+
+### 🎮 Unity Game Developer — Edurino GmbH (2023–2025)
+At Edurino, I developed several educational minigames totaling around 30 minutes of gameplay each. I collaborated closely with game designers, content creators, artists, and tech artists. Beyond implementation, I helped streamline pipelines, introduced a low-code workflow tailored to our needs, integrated content into existing codebases, and refactored legacy systems. I also supported onboarding of new developers.
+
+### 🧩 Software Developer — ENKO Software GmbH & Co. KG (2020–2023)
+Initially led the redevelopment of a mobile game project. Later, I became lead developer in a five-person team tasked with customizing Microsoft Business Central for local clients. My responsibilities included migrating business processes from Excel to Business Central, development in AL, and setting up DevOps workflows using Git and Docker. I also trained colleagues and mentored a trainee.
+
+### 🎓 Developer & Team Lead — Student Projects (2015–2019)
+During my studies, I participated in and led various software projects. Roles varied between team leadership and development. One of the highlights was my bachelor thesis, where I created a 2D ecosystem simulation with AI agents using the NEAT algorithm in Unity.
+
+---
+
+## 🛠️ Skills & Technologies
+
+- Unity (C#)
+- Git, Docker, Azure DevOps
+- Business Central / AL
+- Educational Game Design
+- Visual Studio Code
+- Cross-functional Team Collaboration
+
+---
+
+## 🧪 Projects
+
+### [Stubbi-Car (2020)](https://apps.apple.com/us/app/stubbi-car-das-game/id1508323525)
+A side-scrolling one-tap game. Completely redesigned and redeveloped in Unity. Assets were provided by an external art studio.
+
+### [Bibitsimulator (2019)](https://github.com/LauxThomas/Bachelor_AI_ecosystem)
+Bachelor thesis project: A 2D autonomous ecosystem with NEAT-based self-learning AI. Includes procedural generation and early Unity DOTS use.
+
+### Edurino Minigames (2023–2025)
+A collection of educational minigames designed for children. I contributed as the main Unity developer on multiple titles, covering approx. 30 minutes of interactive gameplay. These projects involved close collaboration with designers and artists, system integration, and workflow automation.
+
+🎥 *Videos and screenshots coming soon...*
+
+### Business Central Customization (2020–2023)
+Customized Microsoft Business Central ERP for various clients. My contributions included AL development, Git/Docker-based dev setup, and workflow optimization. I also provided training and led process migration from Excel to Business Central.
+
+📸 *Screenshots and diagrams coming soon...*
+
+---
+
+_Thanks for stopping by!_
