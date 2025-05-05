@@ -63,7 +63,7 @@ I developed the complete game loop and implemented a customizable car system wit
 Bachelor thesis project: A 2D autonomous ecosystem with NEAT-based self-learning AI. Includes procedural generation and early Unity DOTS use.
 
 ### [Edurino Minigames (2023–2025)](https://apps.apple.com/de/app/edurino/id1576678420)
-A collection of educational minigames designed for children. I contributed as the main Unity developer on multiple titles, covering approx. 30 minutes of interactive gameplay. These projects involved close collaboration with designers and artists, system integration, and workflow automation.
+A collection of educational minigames designed for children. I contributed as the main Unity developer on multiple titles, covering approx. 30 minutes of interactive gameplay each. These projects involved close collaboration with designers and artists, system integration, and workflow automation.
 
 🎥 *Videos and screenshots coming soon...*
 
