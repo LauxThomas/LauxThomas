@@ -48,12 +48,21 @@ During my studies, I participated in and led various software projects. Roles va
 - Visual Studio Code
 - Cross-functional Team Collaboration
 
+- Unity (C#)
+- Git, Docker, Azure DevOps
+- Business Central / AL
+- Educational Game Design
+- Visual Studio Code
+- Cross-functional Team Collaboration
+
 ---
 
 ## 🧪 Projects
 
 ### [Stubbi-Car (2020)](https://apps.apple.com/us/app/stubbi-car-das-game/id1508323525)
 A side-scrolling one-tap game. Completely redesigned and redeveloped in Unity. Assets were provided by an external art studio.
+
+![Stubbi-Car Screenshot](./stubbiCar.png)
 
 ### [Bibitsimulator (2019)](https://github.com/LauxThomas/Bachelor_AI_ecosystem)
 Bachelor thesis project: A 2D autonomous ecosystem with NEAT-based self-learning AI. Includes procedural generation and early Unity DOTS use.
