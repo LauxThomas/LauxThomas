@@ -67,20 +67,74 @@ A collection of educational minigames designed for children. I contributed as th
 <details>
   <summary>🎥 Watch Videos of My Edurino Work</summary>
 
-<p>
-  <a href="https://youtu.be/qOaQk_KmSgs"><img src="https://img.youtube.com/vi/qOaQk_KmSgs/0.jpg" width="320"/> E11 ClockChaos</a><br>
-  <a href="https://youtu.be/4cijJ6Y50GM"><img src="https://img.youtube.com/vi/4cijJ6Y50GM/0.jpg" width="320"/> E200 lineBlaster</a><br>
-  <a href="https://youtu.be/lV2BNdKEjOQ"><img src="https://img.youtube.com/vi/lV2BNdKEjOQ/0.jpg" width="320"/> E9 mindfulMaze</a><br>
-  <a href="https://youtu.be/rWysi2-9bkc"><img src="https://img.youtube.com/vi/rWysi2-9bkc/0.jpg" width="320"/> E201 dataTreasure</a><br>
-  <a href="https://youtu.be/xwI2iU1kbhw"><img src="https://img.youtube.com/vi/xwI2iU1kbhw/0.jpg" width="320"/> E9 puffyBreath</a><br>
-  <a href="https://youtu.be/Ddz-y3zdPDA"><img src="https://img.youtube.com/vi/Ddz-y3zdPDA/0.jpg" width="320"/> E9 thoughtBalloons</a><br>
-  <a href="https://youtu.be/W1-PzEqfplo"><img src="https://img.youtube.com/vi/W1-PzEqfplo/0.jpg" width="320"/> E11 AutorunnerTime</a><br>
-  <a href="https://youtu.be/bzCJ3cSy3vI"><img src="https://img.youtube.com/vi/bzCJ3cSy3vI/0.jpg" width="320"/> E201 catfishGarden</a><br>
-  <a href="https://youtu.be/OukHaXuMUQ8"><img src="https://img.youtube.com/vi/OukHaXuMUQ8/0.jpg" width="320"/> E200 characterWallpaperPuzzle</a><br>
-  <a href="https://youtu.be/vMaHm2hKBiI"><img src="https://img.youtube.com/vi/vMaHm2hKBiI/0.jpg" width="320"/> E201 digitalDetox</a><br>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://youtu.be/qOaQk_KmSgs"><img src="https://img.youtube.com/vi/qOaQk_KmSgs/0.jpg" width="200"/></a><br/>
+      <sub>E11 ClockChaos</sub>
+    </td>
+    <td align="center">
+      <a href="https://youtu.be/4cijJ6Y50GM"><img src="https://img.youtube.com/vi/4cijJ6Y50GM/0.jpg" width="200"/></a><br/>
+      <sub>E200 lineBlaster</sub>
+    </td>
+    <td align="center">
+      <a href="https://youtu.be/lV2BNdKEjOQ"><img src="https://img.youtube.com/vi/lV2BNdKEjOQ/0.jpg" width="200"/></a><br/>
+      <sub>E9 mindfulMaze</sub>
+    </td>
+    <td align="center">
+      <a href="https://youtu.be/rWysi2-9bkc"><img src="https://img.youtube.com/vi/rWysi2-9bkc/0.jpg" width="200"/></a><br/>
+      <sub>E201 dataTreasure</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://youtu.be/xwI2iU1kbhw"><img src="https://img.youtube.com/vi/xwI2iU1kbhw/0.jpg" width="200"/></a><br/>
+      <sub>E9 puffyBreath</sub>
+    </td>
+    <td align="center">
+      <a href="https://youtu.be/Ddz-y3zdPDA"><img src="https://img.youtube.com/vi/Ddz-y3zdPDA/0.jpg" width="200"/></a><br/>
+      <sub>E9 thoughtBalloons</sub>
+    </td>
+    <td align="center">
+      <a href="https://youtu.be/W1-PzEqfplo"><img src="https://img.youtube.com/vi/W1-PzEqfplo/0.jpg" width="200"/></a><br/>
+      <sub>E11 AutorunnerTime</sub>
+    </td>
+    <td align="center">
+      <a href="https://youtu.be/bzCJ3cSy3vI"><img src="https://img.youtube.com/vi/bzCJ3cSy3vI/0.jpg" width="200"/></a><br/>
+      <sub>E201 catfishGarden</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://youtu.be/OukHaXuMUQ8"><img src="https://img.youtube.com/vi/OukHaXuMUQ8/0.jpg" width="200"/></a><br/>
+      <sub>E200 characterWallpaperPuzzle</sub>
+    </td>
+    <td align="center">
+      <a href="https://youtu.be/vMaHm2hKBiI"><img src="https://img.youtube.com/vi/vMaHm2hKBiI/0.jpg" width="200"/></a><br/>
+      <sub>E201 digitalDetox</sub>
+    </td>
+    <td align="center">
+      <a href="https://youtu.be/7OyP4_T08A4"><img src="https://img.youtube.com/vi/7OyP4_T08A4/0.jpg" width="200"/></a><br/>
+      <sub>E11 Around the Clock</sub>
+    </td>
+    <td align="center">
+      <a href="https://youtu.be/9mtozPRZVoU"><img src="https://img.youtube.com/vi/9mtozPRZVoU/0.jpg" width="200"/></a><br/>
+      <sub>E11 Build a Clock</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://youtu.be/CSfEKOv49m4"><img src="https://img.youtube.com/vi/CSfEKOv49m4/0.jpg" width="200"/></a><br/>
+      <sub>E9 Memory Book</sub>
+    </td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 </details>
+
 
 ### Business Central Customization (2020–2023)
 Customized Microsoft Business Central ERP for various clients. My contributions included AL development, Git/Docker-based dev setup, and workflow optimization. I also provided training and led process migration from Excel to Business Central.
