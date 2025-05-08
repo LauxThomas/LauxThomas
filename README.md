@@ -65,22 +65,11 @@ Bachelor thesis project: A 2D autonomous ecosystem with NEAT-based self-learning
 A collection of educational minigames designed for children. I contributed as the main Unity developer on multiple titles, covering approx. 30 minutes of interactive gameplay each. These projects involved close collaboration with designers and artists, system integration, and workflow automation.
 
 <details>
-  <summary>🎥 Watch Videos of My Edurino Work</summary>
+  <summary>🎥 Watch Sample Video</summary>
 
   <p>
-    <video width="320" controls><source src="E11_AroundTheClock.mp4" type="video/mp4"></video>
-    <video width="320" controls><source src="E11_AutorunnerTime.mp4" type="video/mp4"></video>
-    <video width="320" controls><source src="E11_BuildAClock.mp4" type="video/mp4"></video>
-    <video width="320" controls><source src="E11_ClockChaos.mp4" type="video/mp4"></video>
-    <video width="320" controls><source src="E200_characterWallpaperPuzzle.mp4" type="video/mp4"></video>
-    <video width="320" controls><source src="E200_lineBlaster.mp4" type="video/mp4"></video>
-    <video width="320" controls><source src="E201_catfishGarden.mp4" type="video/mp4"></video>
-    <video width="320" controls><source src="E201_dataTreasure.mp4" type="video/mp4"></video>
-    <video width="320" controls><source src="E201_digitalDetox.mp4" type="video/mp4"></video>
-    <video width="320" controls><source src="E9_MemoryBook.mp4" type="video/mp4"></video>
-    <video width="320" controls><source src="E9_mindfulMaze.mp4" type="video/mp4"></video>
-    <video width="320" controls><source src="E9_puffyBreath.mp4" type="video/mp4"></video>
-    <video width="320" controls><source src="E9_thoughtBalloons.mp4" type="video/mp4"></video>
+    <a href="E11_AroundTheClock.mp4">▶️ E11_AroundTheClock.mp4</a>
+    <!-- GitHub does not render <video> on profile READMEs, so we link it instead -->
   </p>
 
 </details>
