@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Thomas</h1>
 <h3 align="center">A software developer and Unity enthusiast from Germany!</h3>
 
@@ -65,7 +64,34 @@ Bachelor thesis project: A 2D autonomous ecosystem with NEAT-based self-learning
 ### [Edurino Minigames (2023–2025)](https://apps.apple.com/de/app/edurino/id1576678420)
 A collection of educational minigames designed for children. I contributed as the main Unity developer on multiple titles, covering approx. 30 minutes of interactive gameplay each. These projects involved close collaboration with designers and artists, system integration, and workflow automation.
 
-🎥 *Videos and screenshots coming soon...*
+<details>
+  <summary>🎥 Watch Videos of My Edurino Work</summary>
+
+<table>
+  <tr>
+    <td><a href="E11_AroundTheClock.mp4"><img src="thumbnails/E11_AroundTheClock.png" width="160"/></a></td>
+    <td><a href="E11_AutorunnerTime.mp4"><img src="thumbnails/E11_AutorunnerTime.png" width="160"/></a></td>
+    <td><a href="E11_BuildAClock.mp4"><img src="thumbnails/E11_BuildAClock.png" width="160"/></a></td>
+    <td><a href="E11_ClockChaos.mp4"><img src="thumbnails/E11_ClockChaos.png" width="160"/></a></td>
+  </tr>
+  <tr>
+    <td><a href="E200_characterWallpaperPuzzle.mp4"><img src="thumbnails/E200_characterWallpaperPuzzle.png" width="160"/></a></td>
+    <td><a href="E200_lineBlaster.mp4"><img src="thumbnails/E200_lineBlaster.png" width="160"/></a></td>
+    <td><a href="E201_catfishGarden.mp4"><img src="thumbnails/E201_catfishGarden.png" width="160"/></a></td>
+    <td><a href="E201_dataTreasure.mp4"><img src="thumbnails/E201_dataTreasure.png" width="160"/></a></td>
+  </tr>
+  <tr>
+    <td><a href="E201_digitalDetox.mp4"><img src="thumbnails/E201_digitalDetox.png" width="160"/></a></td>
+    <td><a href="E9_MemoryBook.mp4"><img src="thumbnails/E9_MemoryBook.png" width="160"/></a></td>
+    <td><a href="E9_mindfulMaze.mp4"><img src="thumbnails/E9_mindfulMaze.png" width="160"/></a></td>
+    <td><a href="E9_puffyBreath.mp4"><img src="thumbnails/E9_puffyBreath.png" width="160"/></a></td>
+  </tr>
+  <tr>
+    <td><a href="E9_thoughtBalloons.mp4"><img src="thumbnails/E9_thoughtBalloons.png" width="160"/></a></td>
+  </tr>
+</table>
+
+</details>
 
 ### Business Central Customization (2020–2023)
 Customized Microsoft Business Central ERP for various clients. My contributions included AL development, Git/Docker-based dev setup, and workflow optimization. I also provided training and led process migration from Excel to Business Central.
