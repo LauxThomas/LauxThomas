@@ -67,29 +67,21 @@ A collection of educational minigames designed for children. I contributed as th
 <details>
   <summary>🎥 Watch Videos of My Edurino Work</summary>
 
-<table>
-  <tr>
-    <td><a href="E11_AroundTheClock.mp4"><img src="thumbnails/E11_AroundTheClock.png" width="160"/></a></td>
-    <td><a href="E11_AutorunnerTime.mp4"><img src="thumbnails/E11_AutorunnerTime.png" width="160"/></a></td>
-    <td><a href="E11_BuildAClock.mp4"><img src="thumbnails/E11_BuildAClock.png" width="160"/></a></td>
-    <td><a href="E11_ClockChaos.mp4"><img src="thumbnails/E11_ClockChaos.png" width="160"/></a></td>
-  </tr>
-  <tr>
-    <td><a href="E200_characterWallpaperPuzzle.mp4"><img src="thumbnails/E200_characterWallpaperPuzzle.png" width="160"/></a></td>
-    <td><a href="E200_lineBlaster.mp4"><img src="thumbnails/E200_lineBlaster.png" width="160"/></a></td>
-    <td><a href="E201_catfishGarden.mp4"><img src="thumbnails/E201_catfishGarden.png" width="160"/></a></td>
-    <td><a href="E201_dataTreasure.mp4"><img src="thumbnails/E201_dataTreasure.png" width="160"/></a></td>
-  </tr>
-  <tr>
-    <td><a href="E201_digitalDetox.mp4"><img src="thumbnails/E201_digitalDetox.png" width="160"/></a></td>
-    <td><a href="E9_MemoryBook.mp4"><img src="thumbnails/E9_MemoryBook.png" width="160"/></a></td>
-    <td><a href="E9_mindfulMaze.mp4"><img src="thumbnails/E9_mindfulMaze.png" width="160"/></a></td>
-    <td><a href="E9_puffyBreath.mp4"><img src="thumbnails/E9_puffyBreath.png" width="160"/></a></td>
-  </tr>
-  <tr>
-    <td><a href="E9_thoughtBalloons.mp4"><img src="thumbnails/E9_thoughtBalloons.png" width="160"/></a></td>
-  </tr>
-</table>
+  <p>
+    <video width="320" controls><source src="E11_AroundTheClock.mp4" type="video/mp4"></video>
+    <video width="320" controls><source src="E11_AutorunnerTime.mp4" type="video/mp4"></video>
+    <video width="320" controls><source src="E11_BuildAClock.mp4" type="video/mp4"></video>
+    <video width="320" controls><source src="E11_ClockChaos.mp4" type="video/mp4"></video>
+    <video width="320" controls><source src="E200_characterWallpaperPuzzle.mp4" type="video/mp4"></video>
+    <video width="320" controls><source src="E200_lineBlaster.mp4" type="video/mp4"></video>
+    <video width="320" controls><source src="E201_catfishGarden.mp4" type="video/mp4"></video>
+    <video width="320" controls><source src="E201_dataTreasure.mp4" type="video/mp4"></video>
+    <video width="320" controls><source src="E201_digitalDetox.mp4" type="video/mp4"></video>
+    <video width="320" controls><source src="E9_MemoryBook.mp4" type="video/mp4"></video>
+    <video width="320" controls><source src="E9_mindfulMaze.mp4" type="video/mp4"></video>
+    <video width="320" controls><source src="E9_puffyBreath.mp4" type="video/mp4"></video>
+    <video width="320" controls><source src="E9_thoughtBalloons.mp4" type="video/mp4"></video>
+  </p>
 
 </details>
 
