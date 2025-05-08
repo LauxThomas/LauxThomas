@@ -25,7 +25,8 @@
 ## 🧑‍💻 Professional Experience
 
 ### 🎮 Unity Game Developer — Edurino GmbH (2023–2025)
-At Edurino, I developed several educational minigames totaling around 30 minutes of gameplay each. I collaborated closely with game designers, content creators, artists, and tech artists. Beyond implementation, I helped streamline pipelines, introduced a low-code workflow tailored to our needs, integrated content into existing codebases, and refactored legacy systems. I also supported onboarding of new developers.
+At Edurino, I developed several educational minigames totaling around 30 minutes of gameplay each. I collaborated closely with game designers, content creators, artists, and tech artists. My responsibilities included implementing complex game logic, multi-touch input, audio and video integration, and content sequencing. I helped maintain and extend our CI pipeline and refactored legacy code for long-term maintainability. I also took care of scene generation and scene handling, introduced and streamlined a low-code workflow tailored to our needs, and ensured efficient system integration. In addition to development, I actively supported onboarding of new team members and contributed to improving team-wide development practices.
+
 
 ### 🧩 Software Developer — ENKO Software GmbH & Co. KG (2020–2023)
 Initially led the redevelopment of a mobile game project. Later, I became lead developer in a five-person team tasked with customizing Microsoft Business Central for local clients. My responsibilities included migrating business processes from Excel to Business Central, development in AL, and setting up DevOps workflows using Git and Docker. I also trained colleagues and mentored a trainee.
