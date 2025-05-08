@@ -65,12 +65,20 @@ Bachelor thesis project: A 2D autonomous ecosystem with NEAT-based self-learning
 A collection of educational minigames designed for children. I contributed as the main Unity developer on multiple titles, covering approx. 30 minutes of interactive gameplay each. These projects involved close collaboration with designers and artists, system integration, and workflow automation.
 
 <details>
-  <summary>🎥 Watch Sample Video</summary>
+  <summary>🎥 Watch Videos of My Edurino Work</summary>
 
-  <p>
-    <a href="E11_AroundTheClock.mp4">▶️ E11_AroundTheClock.mp4</a>
-    <!-- GitHub does not render <video> on profile READMEs, so we link it instead -->
-  </p>
+<p>
+  <a href="https://youtu.be/qOaQk_KmSgs"><img src="https://img.youtube.com/vi/qOaQk_KmSgs/0.jpg" width="320"/> E11 ClockChaos</a><br>
+  <a href="https://youtu.be/4cijJ6Y50GM"><img src="https://img.youtube.com/vi/4cijJ6Y50GM/0.jpg" width="320"/> E200 lineBlaster</a><br>
+  <a href="https://youtu.be/lV2BNdKEjOQ"><img src="https://img.youtube.com/vi/lV2BNdKEjOQ/0.jpg" width="320"/> E9 mindfulMaze</a><br>
+  <a href="https://youtu.be/rWysi2-9bkc"><img src="https://img.youtube.com/vi/rWysi2-9bkc/0.jpg" width="320"/> E201 dataTreasure</a><br>
+  <a href="https://youtu.be/xwI2iU1kbhw"><img src="https://img.youtube.com/vi/xwI2iU1kbhw/0.jpg" width="320"/> E9 puffyBreath</a><br>
+  <a href="https://youtu.be/Ddz-y3zdPDA"><img src="https://img.youtube.com/vi/Ddz-y3zdPDA/0.jpg" width="320"/> E9 thoughtBalloons</a><br>
+  <a href="https://youtu.be/W1-PzEqfplo"><img src="https://img.youtube.com/vi/W1-PzEqfplo/0.jpg" width="320"/> E11 AutorunnerTime</a><br>
+  <a href="https://youtu.be/bzCJ3cSy3vI"><img src="https://img.youtube.com/vi/bzCJ3cSy3vI/0.jpg" width="320"/> E201 catfishGarden</a><br>
+  <a href="https://youtu.be/OukHaXuMUQ8"><img src="https://img.youtube.com/vi/OukHaXuMUQ8/0.jpg" width="320"/> E200 characterWallpaperPuzzle</a><br>
+  <a href="https://youtu.be/vMaHm2hKBiI"><img src="https://img.youtube.com/vi/vMaHm2hKBiI/0.jpg" width="320"/> E201 digitalDetox</a><br>
+</p>
 
 </details>
 
