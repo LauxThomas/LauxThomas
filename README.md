@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Thomas</h1>
-<h3 align="center">A software developer and Unity enthusiast from Germany!</h3>
+<h3 align="center">Software Developer • Unity Engineer • Educational Technology Student</h3>
 
-- 👯 I’m looking to collaborate on **Unity projects**
-
-- 💬 Ask me about **Business Central, Unity, and Educational Game Development**
-
-- 🎓 Currently studying **Educational Technology (M.Sc.)**, combining computer science, pedagogy, and psychology
-
-- ⚡ Fun fact: **I have 10 pets — 2 cats, 2 dogs, 4 rabbits, and 2 pigs — and I’m building a small animal sanctuary**
-
-- 🎮 My current favorite games are **Path of Exile** and **Satisfactory**
+- 👨‍💻 Working as a **Unity Game Developer** (Edurino minigames, 2023–2025)
+- 🎮 Passionate about **game-based learning, systemic game design, and playful interaction**
+- 🚀 Looking to collaborate on **Unity, gameplay systems, and educational tech projects**
+- 🎓 Currently studying **Educational Technology (M.Sc.)** — expected graduation **Autumn 2026**
+- 🧠 Planning to write my master’s thesis on **gamification in learning environments (e.g., schools)**
+- 💬 Ask me about **Unity, Business Central, Educational Game Development, or gameplay systems**
+- 🐾 Fun fact: I live with **12 rescue animals** — **3 cats, 2 dogs, 5 rabbits, and 2 pigs** — and I'm slowly building a small sanctuary
+- 🎮 Favorite games right now: **Path of Exile**, **Satisfactory**
 
 ---
 
@@ -25,35 +24,52 @@
 ## 🧑‍💻 Professional Experience
 
 ### 🎮 Unity Game Developer — Edurino GmbH (2023–2025)
-At Edurino, I developed several educational minigames totaling around 30 minutes of gameplay each. I collaborated closely with game designers, content creators, artists, and tech artists. My responsibilities included implementing complex game logic, multi-touch input, audio and video integration, and content sequencing. I helped maintain and extend our CI pipeline and refactored legacy code for long-term maintainability. I also took care of scene generation and scene handling, introduced and streamlined a low-code workflow tailored to our needs, and ensured efficient system integration. In addition to development, I actively supported onboarding of new team members and contributed to improving team-wide development practices.
+At Edurino I developed **~15 educational minigames**, each contributing around **30 minutes of high-quality gameplay** shipped to thousands of families.  
+My work included:
 
+- Implementing **core gameplay**, multi-touch interactions, and accessible input systems  
+- Integrating **audio, video, animations, and sequenced content**  
+- Maintaining and extending our **CI pipeline**  
+- Refactoring and stabilizing legacy systems for long-term scalability  
+- Building **scene-generation systems** and streamlining **low-code tools** for content teams  
+- Improving onboarding workflows and supporting new developers  
+- Collaborating closely with designers, artists, content authors, and tech art to deliver polished experiences  
+
+I also worked on:
+- **Catfish Garden** (incl. solving major DataTreasure issues)  
+- **Burping AI**, a minigame prototype involving emoji-combination logic and interactive character feedback  
+- Internal tooling and workflow automation to support large content pipelines  
 
 ### 🧩 Software Developer — ENKO Software GmbH & Co. KG (2020–2023)
-Initially led the redevelopment of a mobile game project. Later, I became lead developer in a five-person team tasked with customizing Microsoft Business Central for local clients. My responsibilities included migrating business processes from Excel to Business Central, development in AL, and setting up DevOps workflows using Git and Docker. I also trained colleagues and mentored a trainee.
+- Led a **mobile game redevelopment project** as the first major assignment  
+- Later became **lead developer** in a 5-person team customizing **Microsoft Business Central**  
+- Implemented AL extensions, designed DevOps workflows (Git, Docker), and migrated business processes from Excel  
+- Mentored colleagues and trained a new trainee  
+- Managed customer-specific adaptations and long-term maintenance  
 
-### 🎓 Developer & Team Lead — Student Projects (2015–2019)
-During my studies, I participated in and led various software projects. Roles varied between team leadership and development. One of the highlights was my bachelor thesis, where I created a 2D ecosystem simulation with AI agents using the NEAT algorithm in Unity.
+### 🎓 Developer & Team Lead — University Projects (2015–2019)
+- Participated in and led several software engineering projects  
+- Built a **2D ecosystem simulation** for the bachelor thesis, using Unity + NEAT for self-learning AI agents  
+- Early experimentation with Unity DOTS and procedural generation  
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-- Unity (C#)
-- Git, Docker, Azure DevOps
-- Business Central / AL
-- JetBrains Rider
-- Obsidian.md
-- LaTeX
-- Educational Game Design
-- Visual Studio Code
-- Cross-functional Team Collaboration
+- **Unity (C#)** — gameplay systems, input, UI, optimization, prototyping  
+- **Git, Docker, Azure DevOps**  
+- **Business Central (AL)** customization  
+- **Educational Game Design & Instructional Design principles**  
+- **JetBrains Rider**, VS Code, LaTeX, Obsidian  
+- **Collaborative cross-functional development** (design, art, content, tech art)
 
 ---
 
 ## 🧪 Projects
 
-### [Edurino Minigames (2023–2025)](https://apps.apple.com/de/app/edurino/id1576678420)
-A collection of educational minigames designed for children. I contributed as the main Unity developer on multiple titles, covering approx. 30 minutes of interactive gameplay each. These projects involved close collaboration with designers and artists, system integration, and workflow automation.
+### 🎮 Edurino Minigames (2023–2025)
+I contributed as the main Unity developer on many minigames across the Edurino product lineup.  
+Each project involved system design, content tooling, performance tuning, and collaboration with a large interdisciplinary team.
 
 <details>
   <summary>🎥 Watch Videos of My Edurino Work</summary>
@@ -126,21 +142,45 @@ A collection of educational minigames designed for children. I contributed as th
 
 </details>
 
-### Business Central Customization (2020–2023)
-Customized Microsoft Business Central ERP for various clients. My contributions included AL development, Git/Docker-based dev setup, and workflow optimization. I also provided training and led process migration from Excel to Business Central.
+---
 
-📸 *Screenshots and diagrams coming soon...*
-
-### [Stubbi-Car (2020)](https://apps.apple.com/us/app/stubbi-car-das-game/id1508323525)
-A side-scrolling one-tap game developed for Bitburger. I was the sole developer responsible for the full technical implementation.
-
-I developed the complete game loop and implemented a customizable car system with varying physics depending on the vehicle's state. The game features multiple interactive item types, quick time event mechanics, an online high score system, ghost driving, and full account handling with persistent data. I also built a scrolling and unlockable world map, added multi-touch support, and handled the porting process to both Android and iOS platforms.
-
-![Stubbi-Car Screenshot](./StubbiCar.png)
-
-### [Bibitsimulator (2019)](https://github.com/LauxThomas/Bachelor_AI_ecosystem)
-Bachelor thesis project: A 2D autonomous ecosystem with NEAT-based self-learning AI. Includes procedural generation and early Unity DOTS use.
+### 🧾 Business Central Customization (2020–2023)
+- AL development for ERP extensions  
+- Git/Docker-based DevOps setup  
+- Migrated customers' full process pipelines into Business Central  
+- Built maintainable workflows and trained team members  
 
 ---
 
-_Thanks for stopping by!_
+### 🚗 Stubbi-Car (2020)
+A side-scrolling one-tap mobile game for Bitburger.  
+
+I developed the entire project, including:  
+- Customizable vehicle physics  
+- Interactive item systems & QTE mechanics  
+- Online high score system & ghost driving  
+- Persistent user accounts  
+- Complete iOS & Android release  
+- Scrolling world map and unlock progression  
+
+![Stubbi-Car Screenshot](./StubbiCar.png)
+
+---
+
+### 🧠 Bibitsimulator (2019)
+My bachelor thesis project:  
+A **2D evolving ecosystem** powered by **NEAT-based self-learning AI**, procedural terrain, and early Unity DOTS experiments.
+
+GitHub: https://github.com/LauxThomas/Bachelor_AI_ecosystem
+
+---
+## 🎯 What I'm Working On Now
+- Exploring **new job opportunities** in Unity, educational games, or learning technology  
+- Researching topics centered on **gamification** and motivation in learning environments  
+- Managing a **week-long digital learning project** for elementary students, using **Minecraft Education** to support younger learners  
+- Designing a **university course** future students can take, focused on creating a podcast: planning and conducting interviews, research workflows, structuring timelines, and using **software, hardware, and AI** to enhance production quality  
+- Deepening my expertise in **multimedia learning** and applying best practices to strengthen my teaching and instructional design skills  
+
+---
+
+_Thanks for stopping by — feel free to reach out!_
