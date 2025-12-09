@@ -34,10 +34,6 @@ My work included:
 - Building **scene-generation systems** and streamlining **low-code tools** for content teams  
 - Improving onboarding workflows and supporting new developers  
 - Collaborating closely with designers, artists, content authors, and tech art to deliver polished experiences  
-
-I also worked on:
-- **Catfish Garden** (incl. solving major DataTreasure issues)  
-- **Burping AI**, a minigame prototype involving emoji-combination logic and interactive character feedback  
 - Internal tooling and workflow automation to support large content pipelines  
 
 ### 🧩 Software Developer — ENKO Software GmbH & Co. KG (2020–2023)
